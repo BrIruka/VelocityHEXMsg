@@ -1,0 +1,8 @@
+{
+  "id": "velocityhexmsg",
+  "name": "VelocityHEXMsg",
+  "version": "1.0.0",
+  "description": "Добавляет поддержку HEX/RGB цветов в сообщения Velocity",
+  "authors": ["Iruka"],
+  "main": "com.iruka.VelocityHEXMsg.VelocityHEXMsg"
+} 
